@@ -1,0 +1,7 @@
+Element	Color Name	HEX	RGB	HSL
+Main Background	Pure White / Off-White	#FFFFFF	rgb(255, 255, 255)	hsl(0, 0%, 100%)
+Card Texture/Shading	Platinum / Light Grey	#E6E8EA	rgb(230, 232, 234)	hsl(210, 8%, 91%)
+Primary Gold Trim	Metallic Gold (Bright)	#D4AF37	rgb(212, 175, 55)	hsl(46, 65%, 52%)
+Gold Highlights	Pale Champagne Gold	#F3E5AB	rgb(243, 229, 171)	hsl(48, 77%, 81%)
+Gold Shadows	Deep Bronze Gold	#8c6d23	rgb(140, 109, 35)	hsl(42, 60%, 34%)
+Typography / Outlines	Dark Charcoal / Onyx	#1A1A1A	rgb(26, 26, 26)	hsl(0, 0%, 10%)
